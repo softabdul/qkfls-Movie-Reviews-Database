@@ -1,2 +1,2 @@
 # Movies Review Database
-test
+tests
